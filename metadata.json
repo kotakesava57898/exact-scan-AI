@@ -1,0 +1,5 @@
+{
+  "name": "ExactScan - Precise Image vs Text Auditor",
+  "description": "A high-precision tool for comparing text within images against digital notepad files, identifying every minor discrepancy in spelling, punctuation, and formatting.",
+  "requestFramePermissions": []
+}
